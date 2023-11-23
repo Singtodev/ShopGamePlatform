@@ -1,0 +1,65 @@
+[
+  {
+    "productId": 0,
+    "productName": "ไอดีไก่บราวอนูบิส",
+    "productImage": "https://media.discordapp.net/attachments/1163093091171979304/1173168396301504572/IMG_6648.jpg?ex=6562f936&is=65508436&hm=b3cb4b07bd8855ce21c5bfe7cade63b62e3193fd7642f7da642f563238817f63&",
+    "productAmount": 0,
+    "productPrice": 150,
+    "productPriceReduced": 135,
+    "isSale": true
+  },
+  {
+    "productId": 1,
+    "productName": "ไอดีไก่ไอนซ์",
+    "productImage": "https://m1r.ai/9/35me9.jpeg",
+    "productAmount": 7,
+    "productPrice": 200,
+    "productPriceReduced": 180,
+    "isSale": true
+  },
+  {
+    "productId": 2,
+    "productName": "ไอดีไก่ทาเคมิจิ",
+    "productImage": "https://m1r.ai/9/url1h.jpeg",
+    "productAmount": 7,
+    "productPrice": 150,
+    "productPriceReduced": 135,
+    "isSale": true
+  },
+  {
+    "productId": 3,
+    "productName": "ไอดีไก่บราวมืด",
+    "productImage": "https://media.discordapp.net/attachments/1163093091171979304/1170399738399576134/IMG_6440.jpg?ex=6558e6b2&is=654671b2&hm=0d94512c5dd339c2b28d1f73862b9bc47b36cb5fd93fb0a8dc415d50461929e1&",
+    "productAmount": 7,
+    "productPrice": 120,
+    "productPriceReduced": 108,
+    "isSale": true
+  },
+  {
+    "productId": 4,
+    "productName": "ไอดีไก่ชิเงโอะ",
+    "productImage": "https://m1r.ai/9/y43b2.jpeg",
+    "productAmount": 8,
+    "productPrice": 300,
+    "productPriceReduced": 270,
+    "isSale": true
+  },
+  {
+    "productId": 5,
+    "productName": "ไอดีไก่แจ็ก",
+    "productImage": "https://m1r.ai/9/6elmv.jpeg",
+    "productAmount": 7,
+    "productPrice": 120,
+    "productPriceReduced": 108,
+    "isSale": true
+  },
+  {
+    "productId": 6,
+    "productName": "ไอดีไก่ซากะ",
+    "productImage": "https://m1r.ai/9/8hjoc.jpeg",
+    "productAmount": 7,
+    "productPrice": 130,
+    "productPriceReduced": 117,
+    "isSale": true
+  }
+]

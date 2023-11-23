@@ -1,0 +1,30 @@
+[
+  {
+    "categoryId": 0,
+    "categoryName": "ไอดีป้ายเหลืองสุดเท่",
+    "categoryImage": "https://media.discordapp.net/attachments/1163093091171979304/1168169534633541763/IMG_6260.jpg?ex=6550c9a8&is=653e54a8&hm=8c9056a8365e27c8bcbbf75194ac5adb34ccdbd62354c40a2a3cead0a1278cb5&",
+    "categorySlug": "",
+    "categoryRate": ""
+  },
+  {
+    "categoryId": 1,
+    "categoryName": "ไอดีเชื่อมจีเมล์",
+    "categoryImage": "https://media.discordapp.net/attachments/1163093091171979304/1168169534939734116/IMG_6259.jpg?ex=6550c9a8&is=653e54a8&hm=0d49dbc4b48afaeb02bfb3553b57d50ab4503b677c5d034e4d0ba5fb7f31674a&",
+    "categorySlug": "",
+    "categoryRate": ""
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "ไอดีกล่องสุ่ม",
+    "categoryImage": "https://media.discordapp.net/attachments/1163093091171979304/1168169535417880636/IMG_6258.jpg?ex=6550c9a8&is=653e54a8&hm=e643ef59c642c5391434b270dcf91fb22c746cb0bd227fc9c3d8ea6ce2e9611c&",
+    "categorySlug": "",
+    "categoryRate": ""
+  },
+  {
+    "categoryId": 3,
+    "categoryName": "ไอดีเวลน้อยตัวสวยๆ",
+    "categoryImage": "https://media.discordapp.net/attachments/1163093091171979304/1167299411697750056/IMG_6216.jpg?ex=654d9f4b&is=653b2a4b&hm=1791449f04d66a35fe965e7129fc15b9c75c1b190e30a971a170aea792a7e3e3&",
+    "categorySlug": "",
+    "categoryRate": ""
+  }
+]
