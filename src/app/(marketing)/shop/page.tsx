@@ -11,7 +11,7 @@ const ShopPage = () => {
 };
 
 
-export function BuildProduct() {
+function BuildProduct() {
   return (
     <div className="relative flex flex-col gap-x-3 py-4">
       <Slide delay={10} direction="up">
