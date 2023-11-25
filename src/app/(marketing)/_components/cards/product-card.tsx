@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { GrBasket } from "react-icons/gr";
 
 export interface ProductCardProps {
@@ -43,6 +44,7 @@ export const ProductCard = ({ product, image, height }: ProductCardProps) => {
           {product.productPriceReduced} -
         </div>
       </div>
+      <Link href={`product/`+product.productId}>
       <div
         className="w-full bg-main-cc-2 border-main-cc-1 border
                                 rounded-md py-2 hover:bg-main-cc-1 cursor-pointer transition-all duration-300 
@@ -50,6 +52,7 @@ export const ProductCard = ({ product, image, height }: ProductCardProps) => {
       >
         <GrBasket /> <span>สั่งซื้อเลยตอนนี้</span>
       </div>
+      </Link>
     </div>
   );
 };

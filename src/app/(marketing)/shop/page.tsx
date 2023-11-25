@@ -4,9 +4,12 @@ import Product from "@/app/(marketing)/mockup/product.json";
 import { ProductCard, ProductProps } from "../_components/cards/product-card";
 const ShopPage = () => {
   return (
-    <Slide direction="up" duration={300}>
-      <BuildProduct />
-    </Slide>
+    <div>
+      <Slide direction="up" duration={300}>
+        <BuildProduct />
+      </Slide>
+    </div>
+      
   );
 };
 
